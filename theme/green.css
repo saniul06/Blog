@@ -1,0 +1,16 @@
+.headersection {
+	background: #008919;
+	color: #fff;
+}
+.icon a {
+	background: #009263;
+}
+.searchbtn input[type="text"] {
+    background-color: #008942;
+}
+input[type="submit"] {
+	background: #00919D
+}
+.navsection {
+	background: #009146;
+}

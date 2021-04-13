@@ -1,0 +1,15 @@
+.headersection {
+	background: #ca932f none repeat scroll 0 0;
+}
+.icon a {
+	background: #a56e0a none repeat scroll 0 0;
+}
+.searchbtn input[type="text"] {
+	background-color: #A56E0A;
+}
+input[type="submit"] {
+	background: #b7801c none repeat scroll 0 0;
+}
+.navsection {
+	background: none repeat scroll 0 0 #e6af4b;
+}
